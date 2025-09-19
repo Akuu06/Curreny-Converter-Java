@@ -16,9 +16,8 @@ Built with a modern UI theme and equipped with error handling for a seamless use
 
 ---
 
-## 🖼️ Demo  
-📸 *Add screenshots of your application here*  
-🎥 *Optional: Add a video demo link here (YouTube/LinkedIn)*  
+## 🖼️ Demo 🎥 *Watch the video demo here*.
+https://lnkd.in/p/dDmrKuub
 
 ---
 
@@ -49,3 +48,11 @@ javac CurrencyConverter.java
 
 # ▶️ Run the application
 java CurrencyConverter
+
+```
+## 👨‍💻 Author  
+**Akanksha Kamra**  
+
+🌐 Connect with me:  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akanksha-kamra)  
+- 💻 [GitHub](https://github.com/Akuu06)  
