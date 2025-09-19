@@ -17,7 +17,7 @@ Built with a modern UI theme and equipped with error handling for a seamless use
 ---
 
 ## 🖼️ Demo 🎥 *Watch the video demo here*.
-https://lnkd.in/p/dDmrKuub
+https://lnkd.in/p/dQUgmbu3
 
 ---
 
